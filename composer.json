@@ -1,0 +1,10 @@
+{
+    "name": "vladar/graphql-bench",
+    "require-dev": {
+        "phpbench/phpbench": "^0.14.0",
+        "webonyx/graphql-php": "^0.12.4",
+        "digiaonline/graphql": "dev-master"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}

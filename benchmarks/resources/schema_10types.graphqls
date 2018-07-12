@@ -1,0 +1,124 @@
+schema {
+  query: Type0
+}
+
+type Type0 {
+  leafField0: String
+  leafField1: String
+  leafField2: String
+  leafField3: String
+  leafField4: String
+  leafField5: String
+  leafField6: String
+  leafField7: String
+  leafField8: String
+  leafField9: String
+}
+type Type1 {
+  leafField0: String
+  leafField1: String
+  leafField2: String
+  leafField3: String
+  leafField4: String
+  leafField5: String
+  leafField6: String
+  leafField7: String
+  leafField8: String
+  leafField9: String
+}
+type Type2 {
+  leafField0: String
+  leafField1: String
+  leafField2: String
+  leafField3: String
+  leafField4: String
+  leafField5: String
+  leafField6: String
+  leafField7: String
+  leafField8: String
+  leafField9: String
+}
+type Type3 {
+  leafField0: String
+  leafField1: String
+  leafField2: String
+  leafField3: String
+  leafField4: String
+  leafField5: String
+  leafField6: String
+  leafField7: String
+  leafField8: String
+  leafField9: String
+}
+type Type4 {
+  leafField0: String
+  leafField1: String
+  leafField2: String
+  leafField3: String
+  leafField4: String
+  leafField5: String
+  leafField6: String
+  leafField7: String
+  leafField8: String
+  leafField9: String
+}
+type Type5 {
+  leafField0: String
+  leafField1: String
+  leafField2: String
+  leafField3: String
+  leafField4: String
+  leafField5: String
+  leafField6: String
+  leafField7: String
+  leafField8: String
+  leafField9: String
+}
+type Type6 {
+  leafField0: String
+  leafField1: String
+  leafField2: String
+  leafField3: String
+  leafField4: String
+  leafField5: String
+  leafField6: String
+  leafField7: String
+  leafField8: String
+  leafField9: String
+}
+type Type7 {
+  leafField0: String
+  leafField1: String
+  leafField2: String
+  leafField3: String
+  leafField4: String
+  leafField5: String
+  leafField6: String
+  leafField7: String
+  leafField8: String
+  leafField9: String
+}
+type Type8 {
+  leafField0: String
+  leafField1: String
+  leafField2: String
+  leafField3: String
+  leafField4: String
+  leafField5: String
+  leafField6: String
+  leafField7: String
+  leafField8: String
+  leafField9: String
+}
+type Type9 {
+  leafField0: String
+  leafField1: String
+  leafField2: String
+  leafField3: String
+  leafField4: String
+  leafField5: String
+  leafField6: String
+  leafField7: String
+  leafField8: String
+  leafField9: String
+}
