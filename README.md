@@ -13,7 +13,7 @@ composer install
 Compares Lexer performance on GraphQL [introspection](benchmarks/resources/introspection.graphql) query.
 
 ```sh
-vendor\bin\phpbench run benchmarks/BigOBench.php --report=aggregate
+composer bench-introspection
 ```
 
 Last result:
@@ -33,7 +33,7 @@ Compares Lexer performance using schema defined as SDL(with
 [200](benchmarks/resources/schema_200types.graphqls) types)
 
 ```sh
-vendor\bin\phpbench run benchmarks/BigOBench.php --report=aggregate
+composer bench-bigo
 ```
 
 Last result:
